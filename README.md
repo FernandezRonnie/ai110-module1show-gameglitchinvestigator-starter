@@ -25,13 +25,16 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [ ] Describe the game's purpose. To show that ai programs have their own issues and needs a pgrammer with AI tools to fix it
+- [ ] Detail which bugs you found. Found quite a few and more, There was some that refelected messages that were plain wrong. New games could not be started and also the point system was bugged.
+- [ ] Explain what fixes you applied. We fixed terms and numbers that were out of placed and structures that were good in theory but needed to be better set. 
 
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+
+![alt text](image.png)
+
 
 ## 🚀 Stretch Features
 
